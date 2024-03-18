@@ -1,6 +1,6 @@
-# Guildelines for reviewing pull requests on Github
+# Guidelines for reviewing pull requests on Github
 
-**These are just general guildelines. They need not be strictly followed**
+**These are just general guildelines. They need not be strictly followed.**
 
 1. With the pull request open, check if the branches are correct.
 
