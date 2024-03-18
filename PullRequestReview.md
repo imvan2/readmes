@@ -11,10 +11,9 @@
 ![Pull Request Description](images/pull-request-description.png)
 
 3. Check if the branch has any merge conflicts
+   1. If there are merge conflicts, then fix those accordingly. Solving it will depend on what the conflicts are. Usually, it’s because the new branch was copied from the wrong branch or the new branch was created before pulling from the original branch. You can ask for help from other devs to fix the conflicts if you’re unsure.
 
 ![Merge Conflicts](images/merge-conflicts.png)
-
-    1. If there are merge conflicts, then fix those accordingly. Solving it will depend on what the conflicts are. Usually, it’s because the new branch was copied from the wrong branch or the new branch was created before pulling from the original branch. You can ask for help from other devs to fix the conflicts if you’re unsure.
 
 2. Find the ticket on Jira
 
